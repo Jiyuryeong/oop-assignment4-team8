@@ -4,8 +4,7 @@ using UnityEngine.SceneManagement;
 public class StartManager : MonoBehaviour
 {
     public GameObject scoreboardPanel;
-    
-    
+ 
 
     public void GameStart()
     {
